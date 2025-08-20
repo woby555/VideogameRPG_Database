@@ -1,0 +1,31 @@
+weapon_id,weapon_name,weapon_type_id,weapon_price
+1,Skyward Blade,1,25.75
+2,Skyrider Sword,1,150.2
+3,Dull Blade,1,92.45
+4,Silver Sword,1,7.8
+5,Primordial Jade Cutter,1,205.6
+6,Serpent Spine,2,45.3
+7,Rainslasher,2,110.9
+8,Royal Greatsword,2,15.25
+9,Redhorn Stonethresher,2,280.4
+10,Wolf's Gravestone,2,2.7
+11,Staff of Homa,3,63.15
+12,Halberd,3,175.9
+13,Crescent Pike,3,120.5
+14,Gradivus,3,9.4
+15,Staff of the Scarlet Sands,3,195.75
+16,Recurve Bow,4,38.6
+17,Royal Bow,4,85.2
+18,Blackcliff Warbox,4,3.9
+19,Thundering Pulse,4,260.1
+20,Amos' Bow,4,18.75
+21,Pocket Grimoire,5,142.3
+22,Memory of Dust,5,72.6
+23,Tome of the Eternal Flow,5,0.5
+24,A Thousand Floating Dreams,5,275.3
+25,Everlasting Moonglow,5,54.1
+26,Serrated Shiver,1,103.8
+27,Duskblade of Draktharr,2,31.95
+28,Atma's Impaler,3,225.15
+29,Galeforce,4,6.2
+30,Morellonomicon,5,290.8
